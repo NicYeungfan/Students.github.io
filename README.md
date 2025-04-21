@@ -18,7 +18,15 @@ Welcome to the Students Portfolio repository! Below are the highlights of studen
 
 ### 3. Xiaoyu Guo
 - **Institution:** City University of Hong Kong (CityU)
-- **Research Focus:** New Media Data Diagnosis via Artificial Intelligence
+- **Research Focus:** New Media Data Fusion via Artificial Intelligence
+- **Year:** 2021–2022
+### 4. CHAN, Wing Hei
+- **Institution:** The Hong Kong Polytechnic University (HKPolyU)
+- **Research Focus:**: Development of novel signal processing algorithms for ultrasonic non-destructive technique enhancement
+- **Year:** 2021–2022
+### 5. SZETO, Man Leong
+- **Institution:** The Hong Kong Polytechnic University (HKPolyU)
+- **Research Focus:**: In-situ synthesis of reduced graphene oxide / copper chalcogenides thermoelectric composites for thermoelectric performance enhancement
 - **Year:** 2021–2022
 
 ---
@@ -26,7 +34,7 @@ Welcome to the Students Portfolio repository! Below are the highlights of studen
 ## 🛠️ **Technologies and Methods**
 - **Battery SoC Estimation:** Extended Kalman Filter (EKF)
 - **ToF Diagnosis:** Hilbert-Huang Transform (HHT)
-- **AI Applications:** Data Analysis and Diagnostics for New Media
+- **AI Applications:** Data Analysis and Fusion
 
 ---
 
